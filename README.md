@@ -6,7 +6,7 @@ I took this course to learn Unity in C# & Code, 2D Video Games for Web, Mac & PC
 
 Gameplay:
 
-The playe controls the car that traveling under the control of the user's keyboard and the player must collect the purple packages along the map one by one and must transfer it to the blue cube, the destination of deliveries.
+The player controls the car that traveling under the control of the user's keyboard and the player must collect the purple packages along the map one by one and must transfer it to the blue cube, the destination of deliveries.
 The player must avoid colliding with the various objects on the map, a collision will result in a decrease in speed for a short time. In addition, yellow dots are scattered throughout the game, , a ride on which will give the car a high speed- Boost for a short time.
 
 When the player has taken a package the car will change its color to pink until it unloads the package in the blue cube.
